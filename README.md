@@ -1,2 +1,2 @@
 # Hackathon_BI
-Repository untuk project Tim Trust in GAT pada Kompetisi Hackathon BI 2024.
+Repository untuk proyek Tim JN and GNN pada Kompetisi Hackathon BI 2024.
